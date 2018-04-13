@@ -1,7 +1,5 @@
-# リポジトリ名
+# Tensorflow-sample
 [Tensorflow](https://www.tensorflow.org/) Sample Repo
-
-## Description
 
 ## Setup
 ```sh
