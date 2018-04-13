@@ -1,0 +1,9 @@
+version: '3'
+services:
+  tensorflow:
+    image: tensorflow/tensorflow:nightly
+    container_name: tensorflow
+    volumes:
+      - .:/var/src
+    ports:
+      - "3789:8888"
