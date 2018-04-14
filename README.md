@@ -1,5 +1,6 @@
 # Tensorflow-sample
-[Tensorflow](https://www.tensorflow.org/) Sample Repo
+[Tensorflow](https://www.tensorflow.org/) Sample Repo.
+This repo uses docker image based on tensorflow:night.
 
 ## Setup
 ```sh
