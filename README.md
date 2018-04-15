@@ -1,6 +1,11 @@
 # Tensorflow-sample
 [Tensorflow](https://www.tensorflow.org/) Sample Repo
 
+## Dependencies
+
+- [Docker](https://docs.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
+
 ## Setup
 ```sh
 # clone
